@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_CURA_Logout_005,Chrome 120.0.0.0,,,31-01-2024 01:13:20,31-01-2024 01:13:39,18.188s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Logout_005,Chrome 120.0.0.0,Validate the CURA Healthcare Service website for successful logout,,31-01-2024 01:13:21,31-01-2024 01:13:39,18.042s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,31-01-2024 01:13:21,31-01-2024 01:13:26,5.099s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 120.0.0.0,,,31-01-2024 01:13:26,31-01-2024 01:13:27,0.939s,PASSED
+"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Username_username""), findTestData(""DDT_Test Data/CURA_Login_InternalData"").getValue(""input_Username"", 1))",Chrome 120.0.0.0,,,31-01-2024 01:13:27,31-01-2024 01:13:28,1.415s,PASSED
+"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Password_password""), findTestData(""DDT_Test Data/CURA_Login_InternalData"").getValue(""input_Password"", 1))",Chrome 120.0.0.0,,,31-01-2024 01:13:28,31-01-2024 01:13:29,0.859s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,31-01-2024 01:13:29,31-01-2024 01:13:30,0.966s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/h2_Make Appointment""), 0)",Chrome 120.0.0.0,,,31-01-2024 01:13:30,31-01-2024 01:13:30,0.389s,PASSED
+delay(1),Chrome 120.0.0.0,,,31-01-2024 01:13:30,31-01-2024 01:13:31,1.026s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/amenu-toggle""))",Chrome 120.0.0.0,,,31-01-2024 01:13:31,31-01-2024 01:13:32,0.358s,PASSED
+delay(2),Chrome 120.0.0.0,,,31-01-2024 01:13:32,31-01-2024 01:13:34,2.022s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Logout""), 0)",Chrome 120.0.0.0,,,31-01-2024 01:13:34,31-01-2024 01:13:34,0.299s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Logout""))",Chrome 120.0.0.0,,,31-01-2024 01:13:34,31-01-2024 01:13:34,0.287s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Logout""))",Chrome 120.0.0.0,,,31-01-2024 01:13:34,31-01-2024 01:13:35,1.023s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/amenu-toggle""))",Chrome 120.0.0.0,,,31-01-2024 01:13:35,31-01-2024 01:13:36,0.362s,PASSED
+delay(2),Chrome 120.0.0.0,,,31-01-2024 01:13:36,31-01-2024 01:13:38,2.010s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Login""), 0)",Chrome 120.0.0.0,,,31-01-2024 01:13:38,31-01-2024 01:13:38,0.297s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 120.0.0.0,,,31-01-2024 01:13:38,31-01-2024 01:13:38,0.297s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,31-01-2024 01:13:38,31-01-2024 01:13:39,0.220s,PASSED

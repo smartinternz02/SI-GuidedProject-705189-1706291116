@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the CURA Healthcare Service website to make an appointment</description>
+   <name>TC_CURA_MakeAppointment_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4f03081-f642-4a34-9fe8-fa1b70a09f7b</testCaseGuid>
+</TestCaseEntity>

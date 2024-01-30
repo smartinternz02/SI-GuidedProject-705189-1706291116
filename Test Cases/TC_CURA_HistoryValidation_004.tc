@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the CURA Healthcare Service website for appointment confirmation</description>
+   <name>TC_CURA_HistoryValidation_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43858797-5d80-490c-9529-d2f8220214ff</testCaseGuid>
+</TestCaseEntity>

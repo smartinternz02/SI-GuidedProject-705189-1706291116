@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_CURA_Login_001,Chrome 120.0.0.0,,,31-01-2024 01:06:05,31-01-2024 01:06:16,10.762s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Login_001,Chrome 120.0.0.0,Validate the CURA Healthcare Service website for successful login,,31-01-2024 01:06:06,31-01-2024 01:06:16,10.634s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,31-01-2024 01:06:06,31-01-2024 01:06:12,6.119s,PASSED
+Start setup action : setupTestCase,Chrome 120.0.0.0,,,31-01-2024 01:06:12,31-01-2024 01:06:13,0.827s,PASSED
+"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Username_username""), findTestData(""DDT_Test Data/CURA_Login_InternalData"").getValue(""input_Username"", 1))",Chrome 120.0.0.0,,,31-01-2024 01:06:13,31-01-2024 01:06:14,1.316s,PASSED
+"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Password_password""), findTestData(""DDT_Test Data/CURA_Login_InternalData"").getValue(""input_Password"", 1))",Chrome 120.0.0.0,,,31-01-2024 01:06:14,31-01-2024 01:06:15,0.644s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 120.0.0.0,,,31-01-2024 01:06:15,31-01-2024 01:06:16,1.002s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/h2_Make Appointment""), 0)",Chrome 120.0.0.0,,,31-01-2024 01:06:16,31-01-2024 01:06:16,0.419s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,31-01-2024 01:06:16,31-01-2024 01:06:16,0.181s,PASSED
