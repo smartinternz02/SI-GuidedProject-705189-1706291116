@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_CURA_Logout_005</name>
+   <name>CURA_TestSuite_Login_001</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,21 +9,21 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>2dc03cde-2e89-4353-ad2d-23f60b50eff8</testSuiteGuid>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0b5a13d8-32e1-4fc3-bef5-91ac13b2768b</testSuiteGuid>
    <testCaseLink>
-      <guid>c9346a25-0379-4927-aee8-c6699c3929e0</guid>
+      <guid>45cf2ff0-4db9-41bd-ace4-accb1c1498f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_CURA_Logout_005</testCaseId>
+      <testCaseId>Test Cases/TC_CURA_Login_001</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>ef386725-c738-4318-9b5f-55b5de79be43</id>
+         <id>70c60578-59dd-45fc-b7ed-f9f06145c792</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/DDT_Test Data/CURA_Login_InternalData</testDataId>
+         <testDataId>Data Files/DDT_Test Data/CURA_Login_TestData</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

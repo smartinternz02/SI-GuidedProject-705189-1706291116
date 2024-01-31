@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>CURA_Login_InternalData</name>
+   <name>CURA_Login_TestData</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
