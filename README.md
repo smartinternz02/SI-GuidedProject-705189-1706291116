@@ -9,7 +9,8 @@
 
 In the past, individuals faced challenges in securing timely medical consultations, with long waiting times and uncertainty about the availability of doctors at hospitals. To address these issues, CURA Healthcare Service introduced a proactive appointment system, revolutionizing the healthcare experience. This global service facilitates the tracking and confirmation of doctor availability, particularly for cardiac or heart-related conditions, which stand out as prevalent health concerns affecting individuals irrespective of their gender.
 
-> ### [Test Plan](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Documents/Test%20Plan.pdf)
+>  ### [Test Plan](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Documents/Test%20Plan.pdf)
+>  ### [Project Demo Video](https://drive.google.com/file/d/11hhXIscfJTgCr7rm6nMxd3BQDA_PMYBk/view?usp=sharing)
 
 ## Project Flow:
 
