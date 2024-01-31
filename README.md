@@ -37,12 +37,14 @@ In the past, individuals faced challenges in securing timely medical consultatio
    - [SetUp and TearDown](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Test%20Suites/CURA_TestSuites/CURA_TestSuite_MakeAppointment_002.groovy)
    - [BeforeTestCase and AfterTestCase](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Test%20Listeners/CURA_MakeAppointment_TListener.groovy)
 
-6. **Integration of Katalon Studio with Git and Jenkins**
+6. **Build Delivery**
+   - [Integrating Katalon Studio with Git and GitHub](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Screenshots/Integration%20with%20Git%20and%20Jenkins/Git%20Integration%20Snapshot-1.png)
+   - [Integrating Katalon Studio with Jenkins](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Screenshots/Integration%20with%20Git%20and%20Jenkins/Jenkins%20Integration%20Snapshot-2.png)
 
-7. **Cross-Browser Testing using TestCloud**
+7. **[Cross-Browser Testing using TestCloud](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Screenshots/Cross-Browser%20Testing%20Using%20TestCloud)**
 
 8. **Report Generation**
-   - Sending Report through email.
+   - [Sending Report through Email](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Screenshots/Sending%20Report%20through%20Email)
    - Test Email Notification
 
 > **Prerequisites**:  
