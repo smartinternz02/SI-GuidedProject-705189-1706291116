@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CURA_TestSuite_HistoryValidation_004,Chrome 121.0.0.0,,,31-01-2024 17:37:30,31-01-2024 17:37:54,23.943s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_HistoryValidation_004,Chrome 121.0.0.0,Validate the CURA Healthcare Service website for appointment confirmation,,31-01-2024 17:37:30,31-01-2024 17:37:54,23.805s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 17:37:30,31-01-2024 17:37:37,6.114s,PASSED
+Start setup action : setupTestCase,Chrome 121.0.0.0,,,31-01-2024 17:37:37,31-01-2024 17:37:41,4.157s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center_5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,31-01-2024 17:37:41,31-01-2024 17:37:42,1.015s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_hospital_readmission""))",Chrome 121.0.0.0,,,31-01-2024 17:37:42,31-01-2024 17:37:42,0.330s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Medicaid_programs""))",Chrome 121.0.0.0,,,31-01-2024 17:37:42,31-01-2024 17:37:42,0.284s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_visit_date""))",Chrome 121.0.0.0,,,31-01-2024 17:37:43,31-01-2024 17:37:43,0.380s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/td_31""))",Chrome 121.0.0.0,,,31-01-2024 17:37:43,31-01-2024 17:37:43,0.426s,PASSED
+"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/textarea_comment""), ""Sample Test"")",Chrome 121.0.0.0,,,31-01-2024 17:37:43,31-01-2024 17:37:44,0.792s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,31-01-2024 17:37:44,31-01-2024 17:37:45,0.584s,PASSED
+delay(2),Chrome 121.0.0.0,,,31-01-2024 17:37:45,31-01-2024 17:37:47,2.032s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/amenu-toggle""))",Chrome 121.0.0.0,,,31-01-2024 17:37:47,31-01-2024 17:37:47,0.306s,PASSED
+"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_History""))",Chrome 121.0.0.0,,,31-01-2024 17:37:47,31-01-2024 17:37:48,0.966s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/h2_History""), 0)",Chrome 121.0.0.0,,,31-01-2024 17:37:48,31-01-2024 17:37:48,0.410s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/div_31012024""), ""31/01/2024"")",Chrome 121.0.0.0,,,31-01-2024 17:37:48,31-01-2024 17:37:49,0.293s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center""), ""Hongkong CURA Healthcare Center"")",Chrome 121.0.0.0,,,31-01-2024 17:37:49,31-01-2024 17:37:49,0.273s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/p_Sample Text""), ""Sample Test"")",Chrome 121.0.0.0,,,31-01-2024 17:37:49,31-01-2024 17:37:49,0.277s,PASSED
+delay(2),Chrome 121.0.0.0,,,31-01-2024 17:37:49,31-01-2024 17:37:51,2.009s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Go to Homepage""))",Chrome 121.0.0.0,,,31-01-2024 17:37:51,31-01-2024 17:37:52,0.288s,PASSED
+Start tear down : tearDownTestCase,Chrome 121.0.0.0,,,31-01-2024 17:37:52,31-01-2024 17:37:54,2.525s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 17:37:54,31-01-2024 17:37:54,0.146s,PASSED

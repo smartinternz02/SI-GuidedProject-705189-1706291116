@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CURA_TestSuite_MakeAppointment_002,Chrome 121.0.6167.139,,,31-01-2024 17:27:30,31-01-2024 17:27:36,6.057s,ERROR
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_002,Chrome 121.0.6167.139,Validate the CURA Healthcare Service website to make an appointment,,31-01-2024 17:27:30,31-01-2024 17:27:36,5.870s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.6167.139,,,31-01-2024 17:27:30,31-01-2024 17:27:35,4.386s,PASSED
+Start setup action : setupTestCase,Chrome 121.0.6167.139,,,31-01-2024 17:27:35,31-01-2024 17:27:36,1.210s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.6167.139,,,31-01-2024 17:27:36,31-01-2024 17:27:36,0.169s,PASSED

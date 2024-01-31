@@ -19,18 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 // Katalon CURA Healthcare Service
 // Login Validation Steps
-
 // Set Username
 WebUI.setText(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Username_username'), findTestData(
-        'DDT_Test Data/CURA_Login_InternalData').getValue('input_Username', 1))
+        'DDT_Test Data/CURA_Login_TestData').getValue('input_Username', 1))
 
 // Set Password
 WebUI.setText(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Password_password'), findTestData(
-        'DDT_Test Data/CURA_Login_InternalData').getValue('input_Password', 1))
+        'DDT_Test Data/CURA_Login_TestData').getValue('input_Password', 1))
 
 // Click on Login button
 WebUI.click(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/button_Login'))
 
 // Verify if Make Appointment element is present
-WebUI.verifyElementPresent(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/h2_Make Appointment'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/h2_Make Appointment'), 
+    0)
 

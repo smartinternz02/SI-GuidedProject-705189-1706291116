@@ -19,11 +19,13 @@ import org.openqa.selenium.Keys as Keys
 /*
 WebUI.click(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Make Appointment'))
 
+// Set Username
 WebUI.setText(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Username_username'), findTestData(
-	'DDT_Test Data/CURA_Login_InternalData').getValue('input_Username', 1))
+        'DDT_Test Data/CURA_Login_TestData').getValue('input_Username', 1))
 
+// Set Password
 WebUI.setText(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Password_password'), findTestData(
-	'DDT_Test Data/CURA_Login_InternalData').getValue('input_Password', 1))
+        'DDT_Test Data/CURA_Login_TestData').getValue('input_Password', 1))
 
 WebUI.click(findTestObject('Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/button_Login'))
 */
