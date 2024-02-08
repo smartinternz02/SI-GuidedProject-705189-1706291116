@@ -1,7 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-CURA_TestSuite_HistoryValidation_004,Chrome 121.0.0.0,,,31-01-2024 17:31:28,31-01-2024 17:31:35,7.054s,ERROR
-,,,,,,,
-Test Cases/TC_CURA_HistoryValidation_004,Chrome 121.0.0.0,Validate the CURA Healthcare Service website for appointment confirmation,,31-01-2024 17:31:28,31-01-2024 17:31:35,6.925s,ERROR
-Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,31-01-2024 17:31:28,31-01-2024 17:31:34,5.710s,PASSED
-Start setup action : setupTestCase,Chrome 121.0.0.0,,,31-01-2024 17:31:34,31-01-2024 17:31:35,1.002s,ERROR
-Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,31-01-2024 17:31:35,31-01-2024 17:31:35,0.142s,PASSED

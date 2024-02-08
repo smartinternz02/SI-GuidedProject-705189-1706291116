@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-CURA_TestSuite_Logout_005,Chrome 121.0.6167.139,,,31-01-2024 17:27:38,31-01-2024 17:27:44,5.395s,ERROR
-,,,,,,,
-Test Cases/TC_CURA_Logout_005,Chrome 121.0.6167.139,Validate the CURA Healthcare Service website for successful logout,,31-01-2024 17:27:38,31-01-2024 17:27:44,5.263s,ERROR
-Start listener action : sampleBeforeTestCase,Chrome 121.0.6167.139,,,31-01-2024 17:27:39,31-01-2024 17:27:43,4.504s,PASSED
-"click(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 121.0.6167.139,,,31-01-2024 17:27:43,31-01-2024 17:27:44,0.522s,PASSED
-"setText(findTestObject(""Object Repository/CURA_Pages_OR/Page_CURA Healthcare Service/input_Username_username""), findTestData(""DDT_Test Data/CURA_Login_InternalData"").getValue(""input_Username"", 1))",Chrome 121.0.6167.139,,,31-01-2024 17:27:44,31-01-2024 17:27:44,0.038s,ERROR
-Start listener action : sampleAfterTestCase,Chrome 121.0.6167.139,,,31-01-2024 17:27:44,31-01-2024 17:27:44,0.090s,PASSED

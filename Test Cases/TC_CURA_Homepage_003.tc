@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Validate the CURA Healthcare Service website for landing on Homepage</description>
-   <name>TC_CURA_Homepage_003</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>a64cd762-e1b1-4b34-9596-b9aecba7ebc1</testCaseGuid>
-</TestCaseEntity>

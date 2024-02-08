@@ -23,30 +23,30 @@ In the past, individuals faced challenges in securing timely medical consultatio
 2. **Test Case Preparation**
    - Analyze Requirements
    - [Create the scenarios and collect the input data](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Documents/Test%20Case%20Template.xlsx)
-   - [Preparation of test cases](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Scripts)
+   - Preparation of test cases
 
 3. **Script/Test Case Execution**
-   - [Under Test Suite and Test Suite Collection level](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Test%20Suites)
-   - [Data-Driven Testing](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Data%20Files/DDT_Test%20Data)
+   - Under Test Suite and Test Suite Collection level
+   - Data-Driven Testing
 
 4. **Handling and Validating Buttons**
-   - [Input Buttons](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Scripts/TC_CURA_MakeAppointment_002/Script1706595792101.groovy)
-   - [Dropdown Lists](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Scripts/TC_CURA_MakeAppointment_002/Script1706595792101.groovy)
-   - [Checkboxes/Radio Buttons](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Scripts/TC_CURA_MakeAppointment_002/Script1706595792101.groovy)
+   - Input Buttons
+   - Dropdown Lists
+   - Checkboxes/Radio Buttons
 
 5. **Test Listeners**
-   - [SetUp and TearDown](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Test%20Suites/CURA_TestSuites/CURA_TestSuite_MakeAppointment_002.groovy)
-   - [BeforeTestCase and AfterTestCase](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Test%20Listeners/CURA_MakeAppointment_TListener.groovy)
+   - SetUp and TearDown
+   - BeforeTestCase and AfterTestCase
 
 6. **Build Delivery**
-   - [Integrating Katalon Studio with Git and GitHub](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Screenshots/Integration%20with%20Git%20and%20Jenkins/Git%20Integration%20Snapshot-1.png)
-   - [Integrating Katalon Studio with Jenkins](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Screenshots/Integration%20with%20Git%20and%20Jenkins/Jenkins%20Integration%20Snapshot-2.png)
+   - [Integrating Katalon Studio with Git and GitHub](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Documents/Screenshots/Integration%20with%20Git%20and%20Jenkins/Git%20Integration%20Snapshot-1.png)
+   - [Integrating Katalon Studio with Jenkins](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/blob/main/Documents/Screenshots/Integration%20with%20Git%20and%20Jenkins/Jenkins%20Integration%20Snapshot-2.png)
 
-7. **[Cross-Browser Testing using TestCloud](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Screenshots/Cross-Browser%20Testing%20Using%20TestCloud)**
+7. **[Cross-Browser Testing using TestCloud](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Documents/Screenshots/Cross-Browser%20Testing%20Using%20TestCloud)**
 
 8. **Report Generation**
-   - [Sending Report through Email](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Screenshots/Sending%20Report%20through%20Email)
-   - Test Email Notification
+   - [Sending Report through Email](https://github.com/smartinternz02/SI-GuidedProject-705189-1706291116/tree/main/Documents/Screenshots/Sending%20Report%20through%20Email)
+
 
 > **Prerequisites**:  
 >  Prior knowledge of the following topics is necessary to complete this project.
@@ -63,4 +63,4 @@ In the past, individuals faced challenges in securing timely medical consultatio
 
 #### Conclusion
 
-I would like to express my gratitude to both the [SmartInternz](https://smartinternz.com) team and the [Katalon](https://katalon.com) team for their invaluable support and contributions to my learning journey. The training sessions organized by the SmartInternz team were instrumental in enhancing my understanding of software test automation, from problem definition to execution and reporting. The robust software tools provided by Katalon were essential in facilitating efficient test automation. The industry expert sessions conducted by the Katalon team were enlightening, offering real-world insights and best practices that significantly enriched my skill set. This internship experience has been transformative, and I am grateful for the opportunity to work on a project that deepened my technical knowledge.
+I would like to express my gratitude to both the [**SmartInternz**](https://smartinternz.com) team and the [**Katalon**](https://katalon.com) team for their invaluable support and contributions to my learning journey. The training and industry expert sessions organized SmartInternz team were instrumental in enhancing my understanding of software test automation.

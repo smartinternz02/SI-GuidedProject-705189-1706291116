@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Validate the CURA Healthcare Service website for successful logout</description>
-   <name>TC_CURA_Logout_005</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>dadd92cb-a8f3-4259-b211-ee3ba725f2c3</testCaseGuid>
-</TestCaseEntity>
